@@ -1,0 +1,1517 @@
+{
+  "threads": [
+    {
+      "id": "3001_bright_white",
+      "name": "3001_Bright_White",
+      "thumbnail_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/webp/3001_bright_white-thumb.webp",
+      "thumbnail_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/jpg/3001_bright_white-thumb.jpg",
+      "full_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/webp/3001_bright_white.webp",
+      "full_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/jpg/3001_bright_white.jpg",
+      "placeholder": null
+    },
+    {
+      "id": "3001_bright_white-copy",
+      "name": "3001_Bright_White Copy",
+      "thumbnail_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/webp/3001_bright_white-copy-thumb.webp",
+      "thumbnail_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/jpg/3001_bright_white-copy-thumb.jpg",
+      "full_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/webp/3001_bright_white-copy.webp",
+      "full_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/jpg/3001_bright_white-copy.jpg",
+      "placeholder": null
+    },
+    {
+      "id": "3002_natural_white",
+      "name": "3002_Natural_White",
+      "thumbnail_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/webp/3002_natural_white-thumb.webp",
+      "thumbnail_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/jpg/3002_natural_white-thumb.jpg",
+      "full_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/webp/3002_natural_white.webp",
+      "full_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/jpg/3002_natural_white.jpg",
+      "placeholder": null
+    },
+    {
+      "id": "3003_pearl_white",
+      "name": "3003_Pearl_White",
+      "thumbnail_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/webp/3003_pearl_white-thumb.webp",
+      "thumbnail_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/jpg/3003_pearl_white-thumb.jpg",
+      "full_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/webp/3003_pearl_white.webp",
+      "full_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/jpg/3003_pearl_white.jpg",
+      "placeholder": null
+    },
+    {
+      "id": "3004_cream_neutral",
+      "name": "3004_Cream_Neutral",
+      "thumbnail_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/webp/3004_cream_neutral-thumb.webp",
+      "thumbnail_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/jpg/3004_cream_neutral-thumb.jpg",
+      "full_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/webp/3004_cream_neutral.webp",
+      "full_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/jpg/3004_cream_neutral.jpg",
+      "placeholder": null
+    },
+    {
+      "id": "3005_almond_neutral",
+      "name": "3005_Almond_Neutral",
+      "thumbnail_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/webp/3005_almond_neutral-thumb.webp",
+      "thumbnail_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/jpg/3005_almond_neutral-thumb.jpg",
+      "full_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/webp/3005_almond_neutral.webp",
+      "full_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/jpg/3005_almond_neutral.jpg",
+      "placeholder": null
+    },
+    {
+      "id": "3006_light_tan",
+      "name": "3006_Light_Tan",
+      "thumbnail_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/webp/3006_light_tan-thumb.webp",
+      "thumbnail_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/jpg/3006_light_tan-thumb.jpg",
+      "full_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/webp/3006_light_tan.webp",
+      "full_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/jpg/3006_light_tan.jpg",
+      "placeholder": null
+    },
+    {
+      "id": "3007_ash_tan",
+      "name": "3007_Ash_Tan",
+      "thumbnail_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/webp/3007_ash_tan-thumb.webp",
+      "thumbnail_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/jpg/3007_ash_tan-thumb.jpg",
+      "full_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/webp/3007_ash_tan.webp",
+      "full_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/jpg/3007_ash_tan.jpg",
+      "placeholder": null
+    },
+    {
+      "id": "3008_sesame_seeds_tan",
+      "name": "3008_Sesame_Seeds_Tan",
+      "thumbnail_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/webp/3008_sesame_seeds_tan-thumb.webp",
+      "thumbnail_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/jpg/3008_sesame_seeds_tan-thumb.jpg",
+      "full_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/webp/3008_sesame_seeds_tan.webp",
+      "full_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/jpg/3008_sesame_seeds_tan.jpg",
+      "placeholder": null
+    },
+    {
+      "id": "3009_colonial_gray",
+      "name": "3009_Colonial_Gray",
+      "thumbnail_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/webp/3009_colonial_gray-thumb.webp",
+      "thumbnail_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/jpg/3009_colonial_gray-thumb.jpg",
+      "full_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/webp/3009_colonial_gray.webp",
+      "full_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/jpg/3009_colonial_gray.jpg",
+      "placeholder": null
+    },
+    {
+      "id": "3010_sandbar_light_brown",
+      "name": "3010_Sandbar_Light_Brown",
+      "thumbnail_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/webp/3010_sandbar_light_brown-thumb.webp",
+      "thumbnail_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/jpg/3010_sandbar_light_brown-thumb.jpg",
+      "full_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/webp/3010_sandbar_light_brown.webp",
+      "full_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/jpg/3010_sandbar_light_brown.jpg",
+      "placeholder": null
+    },
+    {
+      "id": "3011_buff_light_pink",
+      "name": "3011_Buff_Light_Pink",
+      "thumbnail_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/webp/3011_buff_light_pink-thumb.webp",
+      "thumbnail_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/jpg/3011_buff_light_pink-thumb.jpg",
+      "full_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/webp/3011_buff_light_pink.webp",
+      "full_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/jpg/3011_buff_light_pink.jpg",
+      "placeholder": null
+    },
+    {
+      "id": "3012_dark_tan_brown",
+      "name": "3012_Dark_Tan_Brown",
+      "thumbnail_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/webp/3012_dark_tan_brown-thumb.webp",
+      "thumbnail_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/jpg/3012_dark_tan_brown-thumb.jpg",
+      "full_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/webp/3012_dark_tan_brown.webp",
+      "full_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/jpg/3012_dark_tan_brown.jpg",
+      "placeholder": null
+    },
+    {
+      "id": "3013_bambi_brown",
+      "name": "3013_Bambi_Brown",
+      "thumbnail_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/webp/3013_bambi_brown-thumb.webp",
+      "thumbnail_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/jpg/3013_bambi_brown-thumb.jpg",
+      "full_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/webp/3013_bambi_brown.webp",
+      "full_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/jpg/3013_bambi_brown.jpg",
+      "placeholder": null
+    },
+    {
+      "id": "3014_maple_brown",
+      "name": "3014_Maple_Brown",
+      "thumbnail_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/webp/3014_maple_brown-thumb.webp",
+      "thumbnail_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/jpg/3014_maple_brown-thumb.jpg",
+      "full_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/webp/3014_maple_brown.webp",
+      "full_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/jpg/3014_maple_brown.jpg",
+      "placeholder": null
+    },
+    {
+      "id": "3015_dusty_taupe_purple",
+      "name": "3015_Dusty_Taupe_Purple",
+      "thumbnail_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/webp/3015_dusty_taupe_purple-thumb.webp",
+      "thumbnail_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/jpg/3015_dusty_taupe_purple-thumb.jpg",
+      "full_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/webp/3015_dusty_taupe_purple.webp",
+      "full_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/jpg/3015_dusty_taupe_purple.jpg",
+      "placeholder": null
+    },
+    {
+      "id": "3016_sandstone_brown",
+      "name": "3016_Sandstone_Brown",
+      "thumbnail_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/webp/3016_sandstone_brown-thumb.webp",
+      "thumbnail_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/jpg/3016_sandstone_brown-thumb.jpg",
+      "full_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/webp/3016_sandstone_brown.webp",
+      "full_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/jpg/3016_sandstone_brown.jpg",
+      "placeholder": null
+    },
+    {
+      "id": "3017_canyon_brown",
+      "name": "3017_Canyon_Brown",
+      "thumbnail_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/webp/3017_canyon_brown-thumb.webp",
+      "thumbnail_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/jpg/3017_canyon_brown-thumb.jpg",
+      "full_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/webp/3017_canyon_brown.webp",
+      "full_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/jpg/3017_canyon_brown.jpg",
+      "placeholder": null
+    },
+    {
+      "id": "3018_oak_brown",
+      "name": "3018_Oak_Brown",
+      "thumbnail_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/webp/3018_oak_brown-thumb.webp",
+      "thumbnail_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/jpg/3018_oak_brown-thumb.jpg",
+      "full_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/webp/3018_oak_brown.webp",
+      "full_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/jpg/3018_oak_brown.jpg",
+      "placeholder": null
+    },
+    {
+      "id": "3019_goose_gray",
+      "name": "3019_Goose_Gray",
+      "thumbnail_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/webp/3019_goose_gray-thumb.webp",
+      "thumbnail_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/jpg/3019_goose_gray-thumb.jpg",
+      "full_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/webp/3019_goose_gray.webp",
+      "full_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/jpg/3019_goose_gray.jpg",
+      "placeholder": null
+    },
+    {
+      "id": "3020_gray_slate",
+      "name": "3020_Gray_Slate",
+      "thumbnail_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/webp/3020_gray_slate-thumb.webp",
+      "thumbnail_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/jpg/3020_gray_slate-thumb.jpg",
+      "full_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/webp/3020_gray_slate.webp",
+      "full_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/jpg/3020_gray_slate.jpg",
+      "placeholder": null
+    },
+    {
+      "id": "3021_ash_gray",
+      "name": "3021_Ash_Gray",
+      "thumbnail_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/webp/3021_ash_gray-thumb.webp",
+      "thumbnail_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/jpg/3021_ash_gray-thumb.jpg",
+      "full_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/webp/3021_ash_gray.webp",
+      "full_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/jpg/3021_ash_gray.jpg",
+      "placeholder": null
+    },
+    {
+      "id": "3022_silver",
+      "name": "3022_Silver",
+      "thumbnail_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/webp/3022_silver-thumb.webp",
+      "thumbnail_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/jpg/3022_silver-thumb.jpg",
+      "full_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/webp/3022_silver.webp",
+      "full_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/jpg/3022_silver.jpg",
+      "placeholder": null
+    },
+    {
+      "id": "3023_light_gray",
+      "name": "3023_Light_Gray",
+      "thumbnail_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/webp/3023_light_gray-thumb.webp",
+      "thumbnail_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/jpg/3023_light_gray-thumb.jpg",
+      "full_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/webp/3023_light_gray.webp",
+      "full_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/jpg/3023_light_gray.jpg",
+      "placeholder": null
+    },
+    {
+      "id": "3024_medium_gray",
+      "name": "3024_Medium_Gray",
+      "thumbnail_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/webp/3024_medium_gray-thumb.webp",
+      "thumbnail_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/jpg/3024_medium_gray-thumb.jpg",
+      "full_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/webp/3024_medium_gray.webp",
+      "full_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/jpg/3024_medium_gray.jpg",
+      "placeholder": null
+    },
+    {
+      "id": "3025_dark_gray",
+      "name": "3025_Dark_Gray",
+      "thumbnail_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/webp/3025_dark_gray-thumb.webp",
+      "thumbnail_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/jpg/3025_dark_gray-thumb.jpg",
+      "full_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/webp/3025_dark_gray.webp",
+      "full_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/jpg/3025_dark_gray.jpg",
+      "placeholder": null
+    },
+    {
+      "id": "3026_black",
+      "name": "3026_Black",
+      "thumbnail_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/webp/3026_black-thumb.webp",
+      "thumbnail_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/jpg/3026_black-thumb.jpg",
+      "full_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/webp/3026_black.webp",
+      "full_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/jpg/3026_black.jpg",
+      "placeholder": null
+    },
+    {
+      "id": "3027_oregon_trail_brown",
+      "name": "3027_Oregon_Trail_Brown",
+      "thumbnail_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/webp/3027_oregon_trail_brown-thumb.webp",
+      "thumbnail_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/jpg/3027_oregon_trail_brown-thumb.jpg",
+      "full_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/webp/3027_oregon_trail_brown.webp",
+      "full_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/jpg/3027_oregon_trail_brown.jpg",
+      "placeholder": null
+    },
+    {
+      "id": "3028_ginger_orange",
+      "name": "3028_Ginger_Orange",
+      "thumbnail_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/webp/3028_ginger_orange-thumb.webp",
+      "thumbnail_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/jpg/3028_ginger_orange-thumb.jpg",
+      "full_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/webp/3028_ginger_orange.webp",
+      "full_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/jpg/3028_ginger_orange.jpg",
+      "placeholder": null
+    },
+    {
+      "id": "3029_milk_chocolate_brown",
+      "name": "3029_Milk_Chocolate_Brown",
+      "thumbnail_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/webp/3029_milk_chocolate_brown-thumb.webp",
+      "thumbnail_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/jpg/3029_milk_chocolate_brown-thumb.jpg",
+      "full_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/webp/3029_milk_chocolate_brown.webp",
+      "full_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/jpg/3029_milk_chocolate_brown.jpg",
+      "placeholder": null
+    },
+    {
+      "id": "3030_medium_brown_brown",
+      "name": "3030_Medium_Brown_Brown",
+      "thumbnail_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/webp/3030_medium_brown_brown-thumb.webp",
+      "thumbnail_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/jpg/3030_medium_brown_brown-thumb.jpg",
+      "full_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/webp/3030_medium_brown_brown.webp",
+      "full_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/jpg/3030_medium_brown_brown.jpg",
+      "placeholder": null
+    },
+    {
+      "id": "3031_cinnamon_stick_brown",
+      "name": "3031_Cinnamon_Stick_Brown",
+      "thumbnail_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/webp/3031_cinnamon_stick_brown-thumb.webp",
+      "thumbnail_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/jpg/3031_cinnamon_stick_brown-thumb.jpg",
+      "full_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/webp/3031_cinnamon_stick_brown.webp",
+      "full_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/jpg/3031_cinnamon_stick_brown.jpg",
+      "placeholder": null
+    },
+    {
+      "id": "3032_mahogany_brown",
+      "name": "3032_Mahogany_Brown",
+      "thumbnail_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/webp/3032_mahogany_brown-thumb.webp",
+      "thumbnail_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/jpg/3032_mahogany_brown-thumb.jpg",
+      "full_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/webp/3032_mahogany_brown.webp",
+      "full_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/jpg/3032_mahogany_brown.jpg",
+      "placeholder": null
+    },
+    {
+      "id": "3033_root_beer_brown",
+      "name": "3033_Root_Beer_Brown",
+      "thumbnail_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/webp/3033_root_beer_brown-thumb.webp",
+      "thumbnail_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/jpg/3033_root_beer_brown-thumb.jpg",
+      "full_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/webp/3033_root_beer_brown.webp",
+      "full_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/jpg/3033_root_beer_brown.jpg",
+      "placeholder": null
+    },
+    {
+      "id": "3034_brownstone_brown",
+      "name": "3034_Brownstone_Brown",
+      "thumbnail_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/webp/3034_brownstone_brown-thumb.webp",
+      "thumbnail_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/jpg/3034_brownstone_brown-thumb.jpg",
+      "full_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/webp/3034_brownstone_brown.webp",
+      "full_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/jpg/3034_brownstone_brown.jpg",
+      "placeholder": null
+    },
+    {
+      "id": "3035_brown_bear",
+      "name": "3035_Brown_Bear",
+      "thumbnail_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/webp/3035_brown_bear-thumb.webp",
+      "thumbnail_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/jpg/3035_brown_bear-thumb.jpg",
+      "full_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/webp/3035_brown_bear.webp",
+      "full_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/jpg/3035_brown_bear.jpg",
+      "placeholder": null
+    },
+    {
+      "id": "3036_kodiak_brown",
+      "name": "3036_Kodiak_Brown",
+      "thumbnail_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/webp/3036_kodiak_brown-thumb.webp",
+      "thumbnail_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/jpg/3036_kodiak_brown-thumb.jpg",
+      "full_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/webp/3036_kodiak_brown.webp",
+      "full_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/jpg/3036_kodiak_brown.jpg",
+      "placeholder": null
+    },
+    {
+      "id": "3037_molasses_brown",
+      "name": "3037_Molasses_Brown",
+      "thumbnail_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/webp/3037_molasses_brown-thumb.webp",
+      "thumbnail_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/jpg/3037_molasses_brown-thumb.jpg",
+      "full_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/webp/3037_molasses_brown.webp",
+      "full_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/jpg/3037_molasses_brown.jpg",
+      "placeholder": null
+    },
+    {
+      "id": "3038_black_walnut_brown",
+      "name": "3038_Black_Walnut_Brown",
+      "thumbnail_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/webp/3038_black_walnut_brown-thumb.webp",
+      "thumbnail_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/jpg/3038_black_walnut_brown-thumb.jpg",
+      "full_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/webp/3038_black_walnut_brown.webp",
+      "full_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/jpg/3038_black_walnut_brown.jpg",
+      "placeholder": null
+    },
+    {
+      "id": "3039_lemon_cream_light_yellow",
+      "name": "3039_Lemon_Cream_Light_Yellow",
+      "thumbnail_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/webp/3039_lemon_cream_light_yellow-thumb.webp",
+      "thumbnail_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/jpg/3039_lemon_cream_light_yellow-thumb.jpg",
+      "full_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/webp/3039_lemon_cream_light_yellow.webp",
+      "full_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/jpg/3039_lemon_cream_light_yellow.jpg",
+      "placeholder": null
+    },
+    {
+      "id": "3040_cookie_dough_light_yellow",
+      "name": "3040_Cookie_Dough_Light_Yellow",
+      "thumbnail_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/webp/3040_cookie_dough_light_yellow-thumb.webp",
+      "thumbnail_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/jpg/3040_cookie_dough_light_yellow-thumb.jpg",
+      "full_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/webp/3040_cookie_dough_light_yellow.webp",
+      "full_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/jpg/3040_cookie_dough_light_yellow.jpg",
+      "placeholder": null
+    },
+    {
+      "id": "3041_flax_tan",
+      "name": "3041_Flax_Tan",
+      "thumbnail_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/webp/3041_flax_tan-thumb.webp",
+      "thumbnail_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/jpg/3041_flax_tan-thumb.jpg",
+      "full_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/webp/3041_flax_tan.webp",
+      "full_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/jpg/3041_flax_tan.jpg",
+      "placeholder": null
+    },
+    {
+      "id": "3042_vanilla_wafer_yellow",
+      "name": "3042_Vanilla_Wafer_Yellow",
+      "thumbnail_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/webp/3042_vanilla_wafer_yellow-thumb.webp",
+      "thumbnail_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/jpg/3042_vanilla_wafer_yellow-thumb.jpg",
+      "full_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/webp/3042_vanilla_wafer_yellow.webp",
+      "full_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/jpg/3042_vanilla_wafer_yellow.jpg",
+      "placeholder": null
+    },
+    {
+      "id": "3043_barley_tan",
+      "name": "3043_Barley_Tan",
+      "thumbnail_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/webp/3043_barley_tan-thumb.webp",
+      "thumbnail_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/jpg/3043_barley_tan-thumb.jpg",
+      "full_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/webp/3043_barley_tan.webp",
+      "full_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/jpg/3043_barley_tan.jpg",
+      "placeholder": null
+    },
+    {
+      "id": "3044_goldenrod_yellow",
+      "name": "3044_Goldenrod_Yellow",
+      "thumbnail_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/webp/3044_goldenrod_yellow-thumb.webp",
+      "thumbnail_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/jpg/3044_goldenrod_yellow-thumb.jpg",
+      "full_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/webp/3044_goldenrod_yellow.webp",
+      "full_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/jpg/3044_goldenrod_yellow.jpg",
+      "placeholder": null
+    },
+    {
+      "id": "3045_gothic_gold",
+      "name": "3045_Gothic_Gold",
+      "thumbnail_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/webp/3045_gothic_gold-thumb.webp",
+      "thumbnail_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/jpg/3045_gothic_gold-thumb.jpg",
+      "full_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/webp/3045_gothic_gold.webp",
+      "full_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/jpg/3045_gothic_gold.jpg",
+      "placeholder": null
+    },
+    {
+      "id": "3047_light_lemon_yellow",
+      "name": "3047_Light_Lemon_Yellow",
+      "thumbnail_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/webp/3047_light_lemon_yellow-thumb.webp",
+      "thumbnail_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/jpg/3047_light_lemon_yellow-thumb.jpg",
+      "full_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/webp/3047_light_lemon_yellow.webp",
+      "full_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/jpg/3047_light_lemon_yellow.jpg",
+      "placeholder": null
+    },
+    {
+      "id": "3048_pale_yellow",
+      "name": "3048_Pale_Yellow",
+      "thumbnail_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/webp/3048_pale_yellow-thumb.webp",
+      "thumbnail_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/jpg/3048_pale_yellow-thumb.jpg",
+      "full_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/webp/3048_pale_yellow.webp",
+      "full_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/jpg/3048_pale_yellow.jpg",
+      "placeholder": null
+    },
+    {
+      "id": "3049_cheesecake_light_yellow",
+      "name": "3049_Cheesecake_Light_Yellow",
+      "thumbnail_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/webp/3049_cheesecake_light_yellow-thumb.webp",
+      "thumbnail_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/jpg/3049_cheesecake_light_yellow-thumb.jpg",
+      "full_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/webp/3049_cheesecake_light_yellow.webp",
+      "full_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/jpg/3049_cheesecake_light_yellow.jpg",
+      "placeholder": null
+    },
+    {
+      "id": "3050_yellow",
+      "name": "3050_Yellow",
+      "thumbnail_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/webp/3050_yellow-thumb.webp",
+      "thumbnail_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/jpg/3050_yellow-thumb.jpg",
+      "full_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/webp/3050_yellow.webp",
+      "full_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/jpg/3050_yellow.jpg",
+      "placeholder": null
+    },
+    {
+      "id": "3051_banana_yellow",
+      "name": "3051_Banana_Yellow",
+      "thumbnail_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/webp/3051_banana_yellow-thumb.webp",
+      "thumbnail_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/jpg/3051_banana_yellow-thumb.jpg",
+      "full_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/webp/3051_banana_yellow.webp",
+      "full_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/jpg/3051_banana_yellow.jpg",
+      "placeholder": null
+    },
+    {
+      "id": "3052_daisy_yellow",
+      "name": "3052_Daisy_Yellow",
+      "thumbnail_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/webp/3052_daisy_yellow-thumb.webp",
+      "thumbnail_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/jpg/3052_daisy_yellow-thumb.jpg",
+      "full_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/webp/3052_daisy_yellow.webp",
+      "full_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/jpg/3052_daisy_yellow.jpg",
+      "placeholder": null
+    },
+    {
+      "id": "3053_school_bus_yellow",
+      "name": "3053_School_Bus_Yellow",
+      "thumbnail_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/webp/3053_school_bus_yellow-thumb.webp",
+      "thumbnail_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/jpg/3053_school_bus_yellow-thumb.jpg",
+      "full_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/webp/3053_school_bus_yellow.webp",
+      "full_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/jpg/3053_school_bus_yellow.jpg",
+      "placeholder": null
+    },
+    {
+      "id": "3054_hazelnut_orange",
+      "name": "3054_Hazelnut_Orange",
+      "thumbnail_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/webp/3054_hazelnut_orange-thumb.webp",
+      "thumbnail_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/jpg/3054_hazelnut_orange-thumb.jpg",
+      "full_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/webp/3054_hazelnut_orange.webp",
+      "full_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/jpg/3054_hazelnut_orange.jpg",
+      "placeholder": null
+    },
+    {
+      "id": "3055_orange_glow",
+      "name": "3055_Orange_Glow",
+      "thumbnail_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/webp/3055_orange_glow-thumb.webp",
+      "thumbnail_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/jpg/3055_orange_glow-thumb.jpg",
+      "full_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/webp/3055_orange_glow.webp",
+      "full_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/jpg/3055_orange_glow.jpg",
+      "placeholder": null
+    },
+    {
+      "id": "3056_rusty_orange",
+      "name": "3056_Rusty_Orange",
+      "thumbnail_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/webp/3056_rusty_orange-thumb.webp",
+      "thumbnail_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/jpg/3056_rusty_orange-thumb.jpg",
+      "full_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/webp/3056_rusty_orange.webp",
+      "full_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/jpg/3056_rusty_orange.jpg",
+      "placeholder": null
+    },
+    {
+      "id": "3057_allspice_brown",
+      "name": "3057_Allspice_Brown",
+      "thumbnail_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/webp/3057_allspice_brown-thumb.webp",
+      "thumbnail_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/jpg/3057_allspice_brown-thumb.jpg",
+      "full_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/webp/3057_allspice_brown.webp",
+      "full_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/jpg/3057_allspice_brown.jpg",
+      "placeholder": null
+    },
+    {
+      "id": "3058_valley_breeze_green",
+      "name": "3058_Valley_Breeze_Green",
+      "thumbnail_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/webp/3058_valley_breeze_green-thumb.webp",
+      "thumbnail_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/jpg/3058_valley_breeze_green-thumb.jpg",
+      "full_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/webp/3058_valley_breeze_green.webp",
+      "full_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/jpg/3058_valley_breeze_green.jpg",
+      "placeholder": null
+    },
+    {
+      "id": "3059_light_sage_green",
+      "name": "3059_Light_Sage_Green",
+      "thumbnail_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/webp/3059_light_sage_green-thumb.webp",
+      "thumbnail_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/jpg/3059_light_sage_green-thumb.jpg",
+      "full_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/webp/3059_light_sage_green.webp",
+      "full_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/jpg/3059_light_sage_green.jpg",
+      "placeholder": null
+    },
+    {
+      "id": "3060_whisper_green",
+      "name": "3060_Whisper_Green",
+      "thumbnail_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/webp/3060_whisper_green-thumb.webp",
+      "thumbnail_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/jpg/3060_whisper_green-thumb.jpg",
+      "full_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/webp/3060_whisper_green.webp",
+      "full_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/jpg/3060_whisper_green.jpg",
+      "placeholder": null
+    },
+    {
+      "id": "3061_khaki_brown",
+      "name": "3061_Khaki_Brown",
+      "thumbnail_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/webp/3061_khaki_brown-thumb.webp",
+      "thumbnail_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/jpg/3061_khaki_brown-thumb.jpg",
+      "full_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/webp/3061_khaki_brown.webp",
+      "full_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/jpg/3061_khaki_brown.jpg",
+      "placeholder": null
+    },
+    {
+      "id": "3062_creek_bed_green",
+      "name": "3062_Creek_Bed_Green",
+      "thumbnail_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/webp/3062_creek_bed_green-thumb.webp",
+      "thumbnail_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/jpg/3062_creek_bed_green-thumb.jpg",
+      "full_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/webp/3062_creek_bed_green.webp",
+      "full_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/jpg/3062_creek_bed_green.jpg",
+      "placeholder": null
+    },
+    {
+      "id": "3063_winter_well_green",
+      "name": "3063_Winter_Well_Green",
+      "thumbnail_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/webp/3063_winter_well_green-thumb.webp",
+      "thumbnail_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/jpg/3063_winter_well_green-thumb.jpg",
+      "full_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/webp/3063_winter_well_green.webp",
+      "full_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/jpg/3063_winter_well_green.jpg",
+      "placeholder": null
+    },
+    {
+      "id": "3064_green_olives",
+      "name": "3064_Green_Olives",
+      "thumbnail_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/webp/3064_green_olives-thumb.webp",
+      "thumbnail_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/jpg/3064_green_olives-thumb.jpg",
+      "full_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/webp/3064_green_olives.webp",
+      "full_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/jpg/3064_green_olives.jpg",
+      "placeholder": null
+    },
+    {
+      "id": "3065_oregano_green",
+      "name": "3065_Oregano_Green",
+      "thumbnail_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/webp/3065_oregano_green-thumb.webp",
+      "thumbnail_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/jpg/3065_oregano_green-thumb.jpg",
+      "full_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/webp/3065_oregano_green.webp",
+      "full_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/jpg/3065_oregano_green.jpg",
+      "placeholder": null
+    },
+    {
+      "id": "3066_bronco_green",
+      "name": "3066_Bronco_Green",
+      "thumbnail_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/webp/3066_bronco_green-thumb.webp",
+      "thumbnail_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/jpg/3066_bronco_green-thumb.jpg",
+      "full_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/webp/3066_bronco_green.webp",
+      "full_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/jpg/3066_bronco_green.jpg",
+      "placeholder": null
+    },
+    {
+      "id": "3067_pine_shadow_green",
+      "name": "3067_Pine_Shadow_Green",
+      "thumbnail_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/webp/3067_pine_shadow_green-thumb.webp",
+      "thumbnail_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/jpg/3067_pine_shadow_green-thumb.jpg",
+      "full_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/webp/3067_pine_shadow_green.webp",
+      "full_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/jpg/3067_pine_shadow_green.jpg",
+      "placeholder": null
+    },
+    {
+      "id": "3068_beige",
+      "name": "3068_Beige",
+      "thumbnail_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/webp/3068_beige-thumb.webp",
+      "thumbnail_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/jpg/3068_beige-thumb.jpg",
+      "full_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/webp/3068_beige.webp",
+      "full_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/jpg/3068_beige.jpg",
+      "placeholder": null
+    },
+    {
+      "id": "3069_dark_olive_green",
+      "name": "3069_Dark_Olive_Green",
+      "thumbnail_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/webp/3069_dark_olive_green-thumb.webp",
+      "thumbnail_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/jpg/3069_dark_olive_green-thumb.jpg",
+      "full_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/webp/3069_dark_olive_green.webp",
+      "full_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/jpg/3069_dark_olive_green.jpg",
+      "placeholder": null
+    },
+    {
+      "id": "3070_fountain_mist_light_blue",
+      "name": "3070_Fountain_Mist_Light_Blue",
+      "thumbnail_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/webp/3070_fountain_mist_light_blue-thumb.webp",
+      "thumbnail_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/jpg/3070_fountain_mist_light_blue-thumb.jpg",
+      "full_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/webp/3070_fountain_mist_light_blue.webp",
+      "full_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/jpg/3070_fountain_mist_light_blue.jpg",
+      "placeholder": null
+    },
+    {
+      "id": "3071_beach_grass_light_blue",
+      "name": "3071_Beach_Grass_Light_Blue",
+      "thumbnail_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/webp/3071_beach_grass_light_blue-thumb.webp",
+      "thumbnail_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/jpg/3071_beach_grass_light_blue-thumb.jpg",
+      "full_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/webp/3071_beach_grass_light_blue.webp",
+      "full_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/jpg/3071_beach_grass_light_blue.jpg",
+      "placeholder": null
+    },
+    {
+      "id": "3072_blue_spruce",
+      "name": "3072_Blue_Spruce",
+      "thumbnail_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/webp/3072_blue_spruce-thumb.webp",
+      "thumbnail_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/jpg/3072_blue_spruce-thumb.jpg",
+      "full_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/webp/3072_blue_spruce.webp",
+      "full_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/jpg/3072_blue_spruce.jpg",
+      "placeholder": null
+    },
+    {
+      "id": "3073_sea_mist_blue",
+      "name": "3073_Sea_Mist_Blue",
+      "thumbnail_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/webp/3073_sea_mist_blue-thumb.webp",
+      "thumbnail_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/jpg/3073_sea_mist_blue-thumb.jpg",
+      "full_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/webp/3073_sea_mist_blue.webp",
+      "full_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/jpg/3073_sea_mist_blue.jpg",
+      "placeholder": null
+    },
+    {
+      "id": "3074_spearmint_green",
+      "name": "3074_Spearmint_Green",
+      "thumbnail_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/webp/3074_spearmint_green-thumb.webp",
+      "thumbnail_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/jpg/3074_spearmint_green-thumb.jpg",
+      "full_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/webp/3074_spearmint_green.webp",
+      "full_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/jpg/3074_spearmint_green.jpg",
+      "placeholder": null
+    },
+    {
+      "id": "3075_highland_meadow_green",
+      "name": "3075_Highland_Meadow_Green",
+      "thumbnail_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/webp/3075_highland_meadow_green-thumb.webp",
+      "thumbnail_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/jpg/3075_highland_meadow_green-thumb.jpg",
+      "full_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/webp/3075_highland_meadow_green.webp",
+      "full_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/jpg/3075_highland_meadow_green.jpg",
+      "placeholder": null
+    },
+    {
+      "id": "3076_pine_tree_green",
+      "name": "3076_Pine_Tree_Green",
+      "thumbnail_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/webp/3076_pine_tree_green-thumb.webp",
+      "thumbnail_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/jpg/3076_pine_tree_green-thumb.jpg",
+      "full_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/webp/3076_pine_tree_green.webp",
+      "full_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/jpg/3076_pine_tree_green.jpg",
+      "placeholder": null
+    },
+    {
+      "id": "3077_palm_tree_green",
+      "name": "3077_Palm_Tree_Green",
+      "thumbnail_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/webp/3077_palm_tree_green-thumb.webp",
+      "thumbnail_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/jpg/3077_palm_tree_green-thumb.jpg",
+      "full_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/webp/3077_palm_tree_green.webp",
+      "full_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/jpg/3077_palm_tree_green.jpg",
+      "placeholder": null
+    },
+    {
+      "id": "3078_forest_green",
+      "name": "3078_Forest_Green",
+      "thumbnail_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/webp/3078_forest_green-thumb.webp",
+      "thumbnail_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/jpg/3078_forest_green-thumb.jpg",
+      "full_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/webp/3078_forest_green.webp",
+      "full_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/jpg/3078_forest_green.jpg",
+      "placeholder": null
+    },
+    {
+      "id": "3079_amazon_blue",
+      "name": "3079_Amazon_Blue",
+      "thumbnail_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/webp/3079_amazon_blue-thumb.webp",
+      "thumbnail_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/jpg/3079_amazon_blue-thumb.jpg",
+      "full_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/webp/3079_amazon_blue.webp",
+      "full_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/jpg/3079_amazon_blue.jpg",
+      "placeholder": null
+    },
+    {
+      "id": "3080_jungle_shadows_green",
+      "name": "3080_Jungle_Shadows_Green",
+      "thumbnail_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/webp/3080_jungle_shadows_green-thumb.webp",
+      "thumbnail_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/jpg/3080_jungle_shadows_green-thumb.jpg",
+      "full_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/webp/3080_jungle_shadows_green.webp",
+      "full_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/jpg/3080_jungle_shadows_green.jpg",
+      "placeholder": null
+    },
+    {
+      "id": "3081_citrus_mint_green",
+      "name": "3081_Citrus_Mint_Green",
+      "thumbnail_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/webp/3081_citrus_mint_green-thumb.webp",
+      "thumbnail_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/jpg/3081_citrus_mint_green-thumb.jpg",
+      "full_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/webp/3081_citrus_mint_green.webp",
+      "full_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/jpg/3081_citrus_mint_green.jpg",
+      "placeholder": null
+    },
+    {
+      "id": "3082_willow_green",
+      "name": "3082_Willow_Green",
+      "thumbnail_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/webp/3082_willow_green-thumb.webp",
+      "thumbnail_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/jpg/3082_willow_green-thumb.jpg",
+      "full_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/webp/3082_willow_green.webp",
+      "full_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/jpg/3082_willow_green.jpg",
+      "placeholder": null
+    },
+    {
+      "id": "3083_pasture_green",
+      "name": "3083_Pasture_Green",
+      "thumbnail_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/webp/3083_pasture_green-thumb.webp",
+      "thumbnail_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/jpg/3083_pasture_green-thumb.jpg",
+      "full_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/webp/3083_pasture_green.webp",
+      "full_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/jpg/3083_pasture_green.jpg",
+      "placeholder": null
+    },
+    {
+      "id": "3084_cactus_green",
+      "name": "3084_Cactus_Green",
+      "thumbnail_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/webp/3084_cactus_green-thumb.webp",
+      "thumbnail_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/jpg/3084_cactus_green-thumb.jpg",
+      "full_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/webp/3084_cactus_green.webp",
+      "full_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/jpg/3084_cactus_green.jpg",
+      "placeholder": null
+    },
+    {
+      "id": "3085_grove_green",
+      "name": "3085_Grove_Green",
+      "thumbnail_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/webp/3085_grove_green-thumb.webp",
+      "thumbnail_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/jpg/3085_grove_green-thumb.jpg",
+      "full_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/webp/3085_grove_green.webp",
+      "full_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/jpg/3085_grove_green.jpg",
+      "placeholder": null
+    },
+    {
+      "id": "3086_dark_evergreen_green",
+      "name": "3086_Dark_Evergreen_Green",
+      "thumbnail_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/webp/3086_dark_evergreen_green-thumb.webp",
+      "thumbnail_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/jpg/3086_dark_evergreen_green-thumb.jpg",
+      "full_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/webp/3086_dark_evergreen_green.webp",
+      "full_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/jpg/3086_dark_evergreen_green.jpg",
+      "placeholder": null
+    },
+    {
+      "id": "3087_light_blue_ice",
+      "name": "3087_Light_Blue_Ice",
+      "thumbnail_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/webp/3087_light_blue_ice-thumb.webp",
+      "thumbnail_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/jpg/3087_light_blue_ice-thumb.jpg",
+      "full_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/webp/3087_light_blue_ice.webp",
+      "full_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/jpg/3087_light_blue_ice.jpg",
+      "placeholder": null
+    },
+    {
+      "id": "3088_skyward_blue",
+      "name": "3088_Skyward_Blue",
+      "thumbnail_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/webp/3088_skyward_blue-thumb.webp",
+      "thumbnail_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/jpg/3088_skyward_blue-thumb.jpg",
+      "full_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/webp/3088_skyward_blue.webp",
+      "full_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/jpg/3088_skyward_blue.jpg",
+      "placeholder": null
+    },
+    {
+      "id": "3089_light_turquoise_blue",
+      "name": "3089_Light_Turquoise_Blue",
+      "thumbnail_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/webp/3089_light_turquoise_blue-thumb.webp",
+      "thumbnail_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/jpg/3089_light_turquoise_blue-thumb.jpg",
+      "full_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/webp/3089_light_turquoise_blue.webp",
+      "full_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/jpg/3089_light_turquoise_blue.jpg",
+      "placeholder": null
+    },
+    {
+      "id": "3090_medium_turquoise_blue",
+      "name": "3090_Medium_Turquoise_Blue",
+      "thumbnail_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/webp/3090_medium_turquoise_blue-thumb.webp",
+      "thumbnail_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/jpg/3090_medium_turquoise_blue-thumb.jpg",
+      "full_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/webp/3090_medium_turquoise_blue.webp",
+      "full_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/jpg/3090_medium_turquoise_blue.jpg",
+      "placeholder": null
+    },
+    {
+      "id": "3091_blue_turquoise",
+      "name": "3091_Blue_Turquoise",
+      "thumbnail_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/webp/3091_blue_turquoise-thumb.webp",
+      "thumbnail_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/jpg/3091_blue_turquoise-thumb.jpg",
+      "full_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/webp/3091_blue_turquoise.webp",
+      "full_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/jpg/3091_blue_turquoise.jpg",
+      "placeholder": null
+    },
+    {
+      "id": "3092_green_turquoise",
+      "name": "3092_Green_Turquoise",
+      "thumbnail_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/webp/3092_green_turquoise-thumb.webp",
+      "thumbnail_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/jpg/3092_green_turquoise-thumb.jpg",
+      "full_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/webp/3092_green_turquoise.webp",
+      "full_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/jpg/3092_green_turquoise.jpg",
+      "placeholder": null
+    },
+    {
+      "id": "3093_blue_teal",
+      "name": "3093_Blue_Teal",
+      "thumbnail_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/webp/3093_blue_teal-thumb.webp",
+      "thumbnail_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/jpg/3093_blue_teal-thumb.jpg",
+      "full_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/webp/3093_blue_teal.webp",
+      "full_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/jpg/3093_blue_teal.jpg",
+      "placeholder": null
+    },
+    {
+      "id": "3094_wintergreen_blue",
+      "name": "3094_Wintergreen_Blue",
+      "thumbnail_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/webp/3094_wintergreen_blue-thumb.webp",
+      "thumbnail_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/jpg/3094_wintergreen_blue-thumb.jpg",
+      "full_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/webp/3094_wintergreen_blue.webp",
+      "full_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/jpg/3094_wintergreen_blue.jpg",
+      "placeholder": null
+    },
+    {
+      "id": "3095_irish_eyes_green",
+      "name": "3095_Irish_Eyes_Green",
+      "thumbnail_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/webp/3095_irish_eyes_green-thumb.webp",
+      "thumbnail_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/jpg/3095_irish_eyes_green-thumb.jpg",
+      "full_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/webp/3095_irish_eyes_green.webp",
+      "full_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/jpg/3095_irish_eyes_green.jpg",
+      "placeholder": null
+    },
+    {
+      "id": "3096_treasure_isle_blue",
+      "name": "3096_Treasure_Isle_Blue",
+      "thumbnail_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/webp/3096_treasure_isle_blue-thumb.webp",
+      "thumbnail_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/jpg/3096_treasure_isle_blue-thumb.jpg",
+      "full_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/webp/3096_treasure_isle_blue.webp",
+      "full_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/jpg/3096_treasure_isle_blue.jpg",
+      "placeholder": null
+    },
+    {
+      "id": "3097_green_teal",
+      "name": "3097_Green_Teal",
+      "thumbnail_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/webp/3097_green_teal-thumb.webp",
+      "thumbnail_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/jpg/3097_green_teal-thumb.jpg",
+      "full_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/webp/3097_green_teal.webp",
+      "full_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/jpg/3097_green_teal.jpg",
+      "placeholder": null
+    },
+    {
+      "id": "3098_harbor_sky_blue",
+      "name": "3098_Harbor_Sky_Blue",
+      "thumbnail_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/webp/3098_harbor_sky_blue-thumb.webp",
+      "thumbnail_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/jpg/3098_harbor_sky_blue-thumb.jpg",
+      "full_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/webp/3098_harbor_sky_blue.webp",
+      "full_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/jpg/3098_harbor_sky_blue.jpg",
+      "placeholder": null
+    },
+    {
+      "id": "3099_skylight_blue",
+      "name": "3099_Skylight_Blue",
+      "thumbnail_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/webp/3099_skylight_blue-thumb.webp",
+      "thumbnail_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/jpg/3099_skylight_blue-thumb.jpg",
+      "full_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/webp/3099_skylight_blue.webp",
+      "full_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/jpg/3099_skylight_blue.jpg",
+      "placeholder": null
+    },
+    {
+      "id": "3100_baby_blue",
+      "name": "3100_Baby_Blue",
+      "thumbnail_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/webp/3100_baby_blue-thumb.webp",
+      "thumbnail_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/jpg/3100_baby_blue-thumb.jpg",
+      "full_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/webp/3100_baby_blue.webp",
+      "full_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/jpg/3100_baby_blue.jpg",
+      "placeholder": null
+    },
+    {
+      "id": "3101_tidal_pool_blue",
+      "name": "3101_Tidal_Pool_Blue",
+      "thumbnail_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/webp/3101_tidal_pool_blue-thumb.webp",
+      "thumbnail_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/jpg/3101_tidal_pool_blue-thumb.jpg",
+      "full_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/webp/3101_tidal_pool_blue.webp",
+      "full_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/jpg/3101_tidal_pool_blue.jpg",
+      "placeholder": null
+    },
+    {
+      "id": "3102_adrift_blue",
+      "name": "3102_Adrift_Blue",
+      "thumbnail_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/webp/3102_adrift_blue-thumb.webp",
+      "thumbnail_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/jpg/3102_adrift_blue-thumb.jpg",
+      "full_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/webp/3102_adrift_blue.webp",
+      "full_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/jpg/3102_adrift_blue.jpg",
+      "placeholder": null
+    },
+    {
+      "id": "3103_ocean_blue",
+      "name": "3103_Ocean_Blue",
+      "thumbnail_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/webp/3103_ocean_blue-thumb.webp",
+      "thumbnail_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/jpg/3103_ocean_blue-thumb.jpg",
+      "full_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/webp/3103_ocean_blue.webp",
+      "full_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/jpg/3103_ocean_blue.jpg",
+      "placeholder": null
+    },
+    {
+      "id": "3104_ride_the_wave_blue",
+      "name": "3104_Ride_The_Wave_Blue",
+      "thumbnail_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/webp/3104_ride_the_wave_blue-thumb.webp",
+      "thumbnail_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/jpg/3104_ride_the_wave_blue-thumb.jpg",
+      "full_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/webp/3104_ride_the_wave_blue.webp",
+      "full_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/jpg/3104_ride_the_wave_blue.jpg",
+      "placeholder": null
+    },
+    {
+      "id": "3105_tahiti_blue",
+      "name": "3105_Tahiti_Blue",
+      "thumbnail_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/webp/3105_tahiti_blue-thumb.webp",
+      "thumbnail_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/jpg/3105_tahiti_blue-thumb.jpg",
+      "full_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/webp/3105_tahiti_blue.webp",
+      "full_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/jpg/3105_tahiti_blue.jpg",
+      "placeholder": null
+    },
+    {
+      "id": "3106_bora_bora_blue",
+      "name": "3106_Bora_Bora_Blue",
+      "thumbnail_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/webp/3106_bora_bora_blue-thumb.webp",
+      "thumbnail_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/jpg/3106_bora_bora_blue-thumb.jpg",
+      "full_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/webp/3106_bora_bora_blue.webp",
+      "full_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/jpg/3106_bora_bora_blue.jpg",
+      "placeholder": null
+    },
+    {
+      "id": "3107_new_england_blue",
+      "name": "3107_New_England_Blue",
+      "thumbnail_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/webp/3107_new_england_blue-thumb.webp",
+      "thumbnail_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/jpg/3107_new_england_blue-thumb.jpg",
+      "full_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/webp/3107_new_england_blue.webp",
+      "full_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/jpg/3107_new_england_blue.jpg",
+      "placeholder": null
+    },
+    {
+      "id": "3108_royal_blue",
+      "name": "3108_Royal_Blue",
+      "thumbnail_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/webp/3108_royal_blue-thumb.webp",
+      "thumbnail_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/jpg/3108_royal_blue-thumb.jpg",
+      "full_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/webp/3108_royal_blue.webp",
+      "full_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/jpg/3108_royal_blue.jpg",
+      "placeholder": null
+    },
+    {
+      "id": "3109_navy_blue",
+      "name": "3109_Navy_Blue",
+      "thumbnail_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/webp/3109_navy_blue-thumb.webp",
+      "thumbnail_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/jpg/3109_navy_blue-thumb.jpg",
+      "full_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/webp/3109_navy_blue.webp",
+      "full_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/jpg/3109_navy_blue.jpg",
+      "placeholder": null
+    },
+    {
+      "id": "3110_steel_blue",
+      "name": "3110_Steel_Blue",
+      "thumbnail_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/webp/3110_steel_blue-thumb.webp",
+      "thumbnail_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/jpg/3110_steel_blue-thumb.jpg",
+      "full_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/webp/3110_steel_blue.webp",
+      "full_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/jpg/3110_steel_blue.jpg",
+      "placeholder": null
+    },
+    {
+      "id": "3111_big_springs_blue",
+      "name": "3111_Big_Springs_Blue",
+      "thumbnail_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/webp/3111_big_springs_blue-thumb.webp",
+      "thumbnail_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/jpg/3111_big_springs_blue-thumb.jpg",
+      "full_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/webp/3111_big_springs_blue.webp",
+      "full_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/jpg/3111_big_springs_blue.jpg",
+      "placeholder": null
+    },
+    {
+      "id": "3112_waterloo_blue",
+      "name": "3112_Waterloo_Blue",
+      "thumbnail_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/webp/3112_waterloo_blue-thumb.webp",
+      "thumbnail_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/jpg/3112_waterloo_blue-thumb.jpg",
+      "full_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/webp/3112_waterloo_blue.webp",
+      "full_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/jpg/3112_waterloo_blue.jpg",
+      "placeholder": null
+    },
+    {
+      "id": "3113_stormy_sky_blue",
+      "name": "3113_Stormy_Sky_Blue",
+      "thumbnail_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/webp/3113_stormy_sky_blue-thumb.webp",
+      "thumbnail_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/jpg/3113_stormy_sky_blue-thumb.jpg",
+      "full_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/webp/3113_stormy_sky_blue.webp",
+      "full_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/jpg/3113_stormy_sky_blue.jpg",
+      "placeholder": null
+    },
+    {
+      "id": "3114_frosted_lilac_light_purple",
+      "name": "3114_Frosted_Lilac_Light_Purple",
+      "thumbnail_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/webp/3114_frosted_lilac_light_purple-thumb.webp",
+      "thumbnail_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/jpg/3114_frosted_lilac_light_purple-thumb.jpg",
+      "full_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/webp/3114_frosted_lilac_light_purple.webp",
+      "full_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/jpg/3114_frosted_lilac_light_purple.jpg",
+      "placeholder": null
+    },
+    {
+      "id": "3115_light_mulberry_purple",
+      "name": "3115_Light_Mulberry_Purple",
+      "thumbnail_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/webp/3115_light_mulberry_purple-thumb.webp",
+      "thumbnail_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/jpg/3115_light_mulberry_purple-thumb.jpg",
+      "full_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/webp/3115_light_mulberry_purple.webp",
+      "full_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/jpg/3115_light_mulberry_purple.jpg",
+      "placeholder": null
+    },
+    {
+      "id": "3116_magic_magenta_purple",
+      "name": "3116_Magic_Magenta_Purple",
+      "thumbnail_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/webp/3116_magic_magenta_purple-thumb.webp",
+      "thumbnail_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/jpg/3116_magic_magenta_purple-thumb.jpg",
+      "full_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/webp/3116_magic_magenta_purple.webp",
+      "full_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/jpg/3116_magic_magenta_purple.jpg",
+      "placeholder": null
+    },
+    {
+      "id": "3117_plush_purple",
+      "name": "3117_Plush_Purple",
+      "thumbnail_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/webp/3117_plush_purple-thumb.webp",
+      "thumbnail_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/jpg/3117_plush_purple-thumb.jpg",
+      "full_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/webp/3117_plush_purple.webp",
+      "full_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/jpg/3117_plush_purple.jpg",
+      "placeholder": null
+    },
+    {
+      "id": "3118_byzantine_purple",
+      "name": "3118_Byzantine_Purple",
+      "thumbnail_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/webp/3118_byzantine_purple-thumb.webp",
+      "thumbnail_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/jpg/3118_byzantine_purple-thumb.jpg",
+      "full_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/webp/3118_byzantine_purple.webp",
+      "full_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/jpg/3118_byzantine_purple.jpg",
+      "placeholder": null
+    },
+    {
+      "id": "3120_purple_sage",
+      "name": "3120_Purple_Sage",
+      "thumbnail_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/webp/3120_purple_sage-thumb.webp",
+      "thumbnail_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/jpg/3120_purple_sage-thumb.jpg",
+      "full_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/webp/3120_purple_sage.webp",
+      "full_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/jpg/3120_purple_sage.jpg",
+      "placeholder": null
+    },
+    {
+      "id": "3121_thistle_purple",
+      "name": "3121_Thistle_Purple",
+      "thumbnail_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/webp/3121_thistle_purple-thumb.webp",
+      "thumbnail_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/jpg/3121_thistle_purple-thumb.jpg",
+      "full_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/webp/3121_thistle_purple.webp",
+      "full_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/jpg/3121_thistle_purple.jpg",
+      "placeholder": null
+    },
+    {
+      "id": "3123_wild_lavender_light_purple",
+      "name": "3123_Wild_Lavender_Light_Purple",
+      "thumbnail_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/webp/3123_wild_lavender_light_purple-thumb.webp",
+      "thumbnail_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/jpg/3123_wild_lavender_light_purple-thumb.jpg",
+      "full_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/webp/3123_wild_lavender_light_purple.webp",
+      "full_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/jpg/3123_wild_lavender_light_purple.jpg",
+      "placeholder": null
+    },
+    {
+      "id": "3124_lavender_purple",
+      "name": "3124_Lavender_Purple",
+      "thumbnail_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/webp/3124_lavender_purple-thumb.webp",
+      "thumbnail_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/jpg/3124_lavender_purple-thumb.jpg",
+      "full_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/webp/3124_lavender_purple.webp",
+      "full_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/jpg/3124_lavender_purple.jpg",
+      "placeholder": null
+    },
+    {
+      "id": "3125_bright_grape_purple",
+      "name": "3125_Bright_Grape_Purple",
+      "thumbnail_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/webp/3125_bright_grape_purple-thumb.webp",
+      "thumbnail_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/jpg/3125_bright_grape_purple-thumb.jpg",
+      "full_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/webp/3125_bright_grape_purple.webp",
+      "full_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/jpg/3125_bright_grape_purple.jpg",
+      "placeholder": null
+    },
+    {
+      "id": "3126_purple_hyacinth",
+      "name": "3126_Purple_Hyacinth",
+      "thumbnail_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/webp/3126_purple_hyacinth-thumb.webp",
+      "thumbnail_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/jpg/3126_purple_hyacinth-thumb.jpg",
+      "full_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/webp/3126_purple_hyacinth.webp",
+      "full_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/jpg/3126_purple_hyacinth.jpg",
+      "placeholder": null
+    },
+    {
+      "id": "3127_purple_jewel",
+      "name": "3127_Purple_Jewel",
+      "thumbnail_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/webp/3127_purple_jewel-thumb.webp",
+      "thumbnail_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/jpg/3127_purple_jewel-thumb.jpg",
+      "full_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/webp/3127_purple_jewel.webp",
+      "full_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/jpg/3127_purple_jewel.jpg",
+      "placeholder": null
+    },
+    {
+      "id": "3128_light_pink",
+      "name": "3128_Light_Pink",
+      "thumbnail_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/webp/3128_light_pink-thumb.webp",
+      "thumbnail_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/jpg/3128_light_pink-thumb.jpg",
+      "full_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/webp/3128_light_pink.webp",
+      "full_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/jpg/3128_light_pink.jpg",
+      "placeholder": null
+    },
+    {
+      "id": "3129_baby_pink",
+      "name": "3129_Baby_Pink",
+      "thumbnail_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/webp/3129_baby_pink-thumb.webp",
+      "thumbnail_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/jpg/3129_baby_pink-thumb.jpg",
+      "full_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/webp/3129_baby_pink.webp",
+      "full_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/jpg/3129_baby_pink.jpg",
+      "placeholder": null
+    },
+    {
+      "id": "3130_pink",
+      "name": "3130_Pink",
+      "thumbnail_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/webp/3130_pink-thumb.webp",
+      "thumbnail_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/jpg/3130_pink-thumb.jpg",
+      "full_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/webp/3130_pink.webp",
+      "full_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/jpg/3130_pink.jpg",
+      "placeholder": null
+    },
+    {
+      "id": "3131_light_rose_pink",
+      "name": "3131_Light_Rose_Pink",
+      "thumbnail_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/webp/3131_light_rose_pink-thumb.webp",
+      "thumbnail_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/jpg/3131_light_rose_pink-thumb.jpg",
+      "full_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/webp/3131_light_rose_pink.webp",
+      "full_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/jpg/3131_light_rose_pink.jpg",
+      "placeholder": null
+    },
+    {
+      "id": "3132_rose_petal_pink",
+      "name": "3132_Rose_Petal_Pink",
+      "thumbnail_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/webp/3132_rose_petal_pink-thumb.webp",
+      "thumbnail_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/jpg/3132_rose_petal_pink-thumb.jpg",
+      "full_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/webp/3132_rose_petal_pink.webp",
+      "full_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/jpg/3132_rose_petal_pink.jpg",
+      "placeholder": null
+    },
+    {
+      "id": "3133_rose_pink",
+      "name": "3133_Rose_Pink",
+      "thumbnail_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/webp/3133_rose_pink-thumb.webp",
+      "thumbnail_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/jpg/3133_rose_pink-thumb.jpg",
+      "full_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/webp/3133_rose_pink.webp",
+      "full_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/jpg/3133_rose_pink.jpg",
+      "placeholder": null
+    },
+    {
+      "id": "3134_tutu_pink",
+      "name": "3134_Tutu_Pink",
+      "thumbnail_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/webp/3134_tutu_pink-thumb.webp",
+      "thumbnail_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/jpg/3134_tutu_pink-thumb.jpg",
+      "full_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/webp/3134_tutu_pink.webp",
+      "full_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/jpg/3134_tutu_pink.jpg",
+      "placeholder": null
+    },
+    {
+      "id": "3135_plum_blossom_pink",
+      "name": "3135_Plum_Blossom_Pink",
+      "thumbnail_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/webp/3135_plum_blossom_pink-thumb.webp",
+      "thumbnail_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/jpg/3135_plum_blossom_pink-thumb.jpg",
+      "full_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/webp/3135_plum_blossom_pink.webp",
+      "full_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/jpg/3135_plum_blossom_pink.jpg",
+      "placeholder": null
+    },
+    {
+      "id": "3136_light_mauve_purple",
+      "name": "3136_Light_Mauve_Purple",
+      "thumbnail_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/webp/3136_light_mauve_purple-thumb.webp",
+      "thumbnail_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/jpg/3136_light_mauve_purple-thumb.jpg",
+      "full_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/webp/3136_light_mauve_purple.webp",
+      "full_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/jpg/3136_light_mauve_purple.jpg",
+      "placeholder": null
+    },
+    {
+      "id": "3137_candy_pink",
+      "name": "3137_Candy_Pink",
+      "thumbnail_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/webp/3137_candy_pink-thumb.webp",
+      "thumbnail_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/jpg/3137_candy_pink-thumb.jpg",
+      "full_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/webp/3137_candy_pink.webp",
+      "full_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/jpg/3137_candy_pink.jpg",
+      "placeholder": null
+    },
+    {
+      "id": "3138_petunia_pink",
+      "name": "3138_Petunia_Pink",
+      "thumbnail_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/webp/3138_petunia_pink-thumb.webp",
+      "thumbnail_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/jpg/3138_petunia_pink-thumb.jpg",
+      "full_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/webp/3138_petunia_pink.webp",
+      "full_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/jpg/3138_petunia_pink.jpg",
+      "placeholder": null
+    },
+    {
+      "id": "3139_hotlips_red",
+      "name": "3139_Hotlips_Red",
+      "thumbnail_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/webp/3139_hotlips_red-thumb.webp",
+      "thumbnail_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/jpg/3139_hotlips_red-thumb.jpg",
+      "full_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/webp/3139_hotlips_red.webp",
+      "full_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/jpg/3139_hotlips_red.jpg",
+      "placeholder": null
+    },
+    {
+      "id": "3140_fiery_red",
+      "name": "3140_Fiery_Red",
+      "thumbnail_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/webp/3140_fiery_red-thumb.webp",
+      "thumbnail_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/jpg/3140_fiery_red-thumb.jpg",
+      "full_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/webp/3140_fiery_red.webp",
+      "full_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/jpg/3140_fiery_red.jpg",
+      "placeholder": null
+    },
+    {
+      "id": "3141_deep_red",
+      "name": "3141_Deep_Red",
+      "thumbnail_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/webp/3141_deep_red-thumb.webp",
+      "thumbnail_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/jpg/3141_deep_red-thumb.jpg",
+      "full_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/webp/3141_deep_red.webp",
+      "full_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/jpg/3141_deep_red.jpg",
+      "placeholder": null
+    },
+    {
+      "id": "3142_rosella_red",
+      "name": "3142_Rosella_Red",
+      "thumbnail_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/webp/3142_rosella_red-thumb.webp",
+      "thumbnail_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/jpg/3142_rosella_red-thumb.jpg",
+      "full_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/webp/3142_rosella_red.webp",
+      "full_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/jpg/3142_rosella_red.jpg",
+      "placeholder": null
+    },
+    {
+      "id": "3144_cranberry_red",
+      "name": "3144_Cranberry_Red",
+      "thumbnail_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/webp/3144_cranberry_red-thumb.webp",
+      "thumbnail_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/jpg/3144_cranberry_red-thumb.jpg",
+      "full_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/webp/3144_cranberry_red.webp",
+      "full_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/jpg/3144_cranberry_red.jpg",
+      "placeholder": null
+    },
+    {
+      "id": "3145_redstone_red",
+      "name": "3145_Redstone_Red",
+      "thumbnail_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/webp/3145_redstone_red-thumb.webp",
+      "thumbnail_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/jpg/3145_redstone_red-thumb.jpg",
+      "full_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/webp/3145_redstone_red.webp",
+      "full_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/jpg/3145_redstone_red.jpg",
+      "placeholder": null
+    },
+    {
+      "id": "3146_burgundy_purple",
+      "name": "3146_Burgundy_Purple",
+      "thumbnail_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/webp/3146_burgundy_purple-thumb.webp",
+      "thumbnail_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/jpg/3146_burgundy_purple-thumb.jpg",
+      "full_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/webp/3146_burgundy_purple.webp",
+      "full_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/jpg/3146_burgundy_purple.jpg",
+      "placeholder": null
+    },
+    {
+      "id": "3147_apricot_blossom_light_pink",
+      "name": "3147_Apricot_Blossom_Light_Pink",
+      "thumbnail_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/webp/3147_apricot_blossom_light_pink-thumb.webp",
+      "thumbnail_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/jpg/3147_apricot_blossom_light_pink-thumb.jpg",
+      "full_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/webp/3147_apricot_blossom_light_pink.webp",
+      "full_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/jpg/3147_apricot_blossom_light_pink.jpg",
+      "placeholder": null
+    },
+    {
+      "id": "3148_bahama_sand_light_pink",
+      "name": "3148_Bahama_Sand_Light_Pink",
+      "thumbnail_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/webp/3148_bahama_sand_light_pink-thumb.webp",
+      "thumbnail_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/jpg/3148_bahama_sand_light_pink-thumb.jpg",
+      "full_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/webp/3148_bahama_sand_light_pink.webp",
+      "full_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/jpg/3148_bahama_sand_light_pink.jpg",
+      "placeholder": null
+    },
+    {
+      "id": "3149_satin_slipper_light_pink",
+      "name": "3149_Satin_Slipper_Light_Pink",
+      "thumbnail_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/webp/3149_satin_slipper_light_pink-thumb.webp",
+      "thumbnail_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/jpg/3149_satin_slipper_light_pink-thumb.jpg",
+      "full_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/webp/3149_satin_slipper_light_pink.webp",
+      "full_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/jpg/3149_satin_slipper_light_pink.jpg",
+      "placeholder": null
+    },
+    {
+      "id": "3150_western_pink",
+      "name": "3150_Western_Pink",
+      "thumbnail_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/webp/3150_western_pink-thumb.webp",
+      "thumbnail_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/jpg/3150_western_pink-thumb.jpg",
+      "full_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/webp/3150_western_pink.webp",
+      "full_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/jpg/3150_western_pink.jpg",
+      "placeholder": null
+    },
+    {
+      "id": "3151_blush_pink",
+      "name": "3151_Blush_Pink",
+      "thumbnail_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/webp/3151_blush_pink-thumb.webp",
+      "thumbnail_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/jpg/3151_blush_pink-thumb.jpg",
+      "full_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/webp/3151_blush_pink.webp",
+      "full_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/jpg/3151_blush_pink.jpg",
+      "placeholder": null
+    },
+    {
+      "id": "3152_climbing_rose_pink",
+      "name": "3152_Climbing_Rose_Pink",
+      "thumbnail_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/webp/3152_climbing_rose_pink-thumb.webp",
+      "thumbnail_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/jpg/3152_climbing_rose_pink-thumb.jpg",
+      "full_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/webp/3152_climbing_rose_pink.webp",
+      "full_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/jpg/3152_climbing_rose_pink.jpg",
+      "placeholder": null
+    },
+    {
+      "id": "3153_sienna_pink",
+      "name": "3153_Sienna_Pink",
+      "thumbnail_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/webp/3153_sienna_pink-thumb.webp",
+      "thumbnail_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/jpg/3153_sienna_pink-thumb.jpg",
+      "full_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/webp/3153_sienna_pink.webp",
+      "full_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/jpg/3153_sienna_pink.jpg",
+      "placeholder": null
+    },
+    {
+      "id": "3154_orange_peel",
+      "name": "3154_Orange_Peel",
+      "thumbnail_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/webp/3154_orange_peel-thumb.webp",
+      "thumbnail_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/jpg/3154_orange_peel-thumb.jpg",
+      "full_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/webp/3154_orange_peel.webp",
+      "full_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/jpg/3154_orange_peel.jpg",
+      "placeholder": null
+    },
+    {
+      "id": "3155_tangerine_orange",
+      "name": "3155_Tangerine_Orange",
+      "thumbnail_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/webp/3155_tangerine_orange-thumb.webp",
+      "thumbnail_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/jpg/3155_tangerine_orange-thumb.jpg",
+      "full_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/webp/3155_tangerine_orange.webp",
+      "full_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/jpg/3155_tangerine_orange.jpg",
+      "placeholder": null
+    },
+    {
+      "id": "3156_bengal_red",
+      "name": "3156_Bengal_Red",
+      "thumbnail_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/webp/3156_bengal_red-thumb.webp",
+      "thumbnail_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/jpg/3156_bengal_red-thumb.jpg",
+      "full_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/webp/3156_bengal_red.webp",
+      "full_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/jpg/3156_bengal_red.jpg",
+      "placeholder": null
+    },
+    {
+      "id": "3157_indian_paintbrush_red",
+      "name": "3157_Indian_Paintbrush_Red",
+      "thumbnail_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/webp/3157_indian_paintbrush_red-thumb.webp",
+      "thumbnail_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/jpg/3157_indian_paintbrush_red-thumb.jpg",
+      "full_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/webp/3157_indian_paintbrush_red.webp",
+      "full_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/jpg/3157_indian_paintbrush_red.jpg",
+      "placeholder": null
+    },
+    {
+      "id": "3158_lipstick_red",
+      "name": "3158_Lipstick_Red",
+      "thumbnail_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/webp/3158_lipstick_red-thumb.webp",
+      "thumbnail_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/jpg/3158_lipstick_red-thumb.jpg",
+      "full_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/webp/3158_lipstick_red.webp",
+      "full_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/jpg/3158_lipstick_red.jpg",
+      "placeholder": null
+    },
+    {
+      "id": "3159_hot_flash_neon_pink",
+      "name": "3159_Hot_Flash_Neon_Pink",
+      "thumbnail_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/webp/3159_hot_flash_neon_pink-thumb.webp",
+      "thumbnail_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/jpg/3159_hot_flash_neon_pink-thumb.jpg",
+      "full_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/webp/3159_hot_flash_neon_pink.webp",
+      "full_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/jpg/3159_hot_flash_neon_pink.jpg",
+      "placeholder": null
+    },
+    {
+      "id": "3160_neon_pink",
+      "name": "3160_Neon_Pink",
+      "thumbnail_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/webp/3160_neon_pink-thumb.webp",
+      "thumbnail_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/jpg/3160_neon_pink-thumb.jpg",
+      "full_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/webp/3160_neon_pink.webp",
+      "full_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/jpg/3160_neon_pink.jpg",
+      "placeholder": null
+    },
+    {
+      "id": "3161_begonia_pink",
+      "name": "3161_Begonia_Pink",
+      "thumbnail_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/webp/3161_begonia_pink-thumb.webp",
+      "thumbnail_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/jpg/3161_begonia_pink-thumb.jpg",
+      "full_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/webp/3161_begonia_pink.webp",
+      "full_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/jpg/3161_begonia_pink.jpg",
+      "placeholder": null
+    },
+    {
+      "id": "3162_lighthouse_yellow",
+      "name": "3162_Lighthouse_Yellow",
+      "thumbnail_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/webp/3162_lighthouse_yellow-thumb.webp",
+      "thumbnail_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/jpg/3162_lighthouse_yellow-thumb.jpg",
+      "full_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/webp/3162_lighthouse_yellow.webp",
+      "full_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/jpg/3162_lighthouse_yellow.jpg",
+      "placeholder": null
+    },
+    {
+      "id": "3164_neon_yellow",
+      "name": "3164_Neon_Yellow",
+      "thumbnail_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/webp/3164_neon_yellow-thumb.webp",
+      "thumbnail_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/jpg/3164_neon_yellow-thumb.jpg",
+      "full_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/webp/3164_neon_yellow.webp",
+      "full_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/jpg/3164_neon_yellow.jpg",
+      "placeholder": null
+    },
+    {
+      "id": "3165_bright_light_green",
+      "name": "3165_Bright_Light_Green",
+      "thumbnail_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/webp/3165_bright_light_green-thumb.webp",
+      "thumbnail_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/jpg/3165_bright_light_green-thumb.jpg",
+      "full_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/webp/3165_bright_light_green.webp",
+      "full_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/jpg/3165_bright_light_green.jpg",
+      "placeholder": null
+    },
+    {
+      "id": "3166_spring_green",
+      "name": "3166_Spring_Green",
+      "thumbnail_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/webp/3166_spring_green-thumb.webp",
+      "thumbnail_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/jpg/3166_spring_green-thumb.jpg",
+      "full_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/webp/3166_spring_green.webp",
+      "full_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/jpg/3166_spring_green.jpg",
+      "placeholder": null
+    },
+    {
+      "id": "3167_bright_green",
+      "name": "3167_Bright_Green",
+      "thumbnail_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/webp/3167_bright_green-thumb.webp",
+      "thumbnail_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/jpg/3167_bright_green-thumb.jpg",
+      "full_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/webp/3167_bright_green.webp",
+      "full_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/jpg/3167_bright_green.jpg",
+      "placeholder": null
+    },
+    {
+      "id": "3168_greensleeves",
+      "name": "3168_Greensleeves",
+      "thumbnail_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/webp/3168_greensleeves-thumb.webp",
+      "thumbnail_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/jpg/3168_greensleeves-thumb.jpg",
+      "full_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/webp/3168_greensleeves.webp",
+      "full_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/jpg/3168_greensleeves.jpg",
+      "placeholder": null
+    },
+    {
+      "id": "3169_aqua_blue",
+      "name": "3169_Aqua_Blue",
+      "thumbnail_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/webp/3169_aqua_blue-thumb.webp",
+      "thumbnail_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/jpg/3169_aqua_blue-thumb.jpg",
+      "full_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/webp/3169_aqua_blue.webp",
+      "full_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/jpg/3169_aqua_blue.jpg",
+      "placeholder": null
+    },
+    {
+      "id": "3170_bright_periwinkle_blue",
+      "name": "3170_Bright_Periwinkle_Blue",
+      "thumbnail_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/webp/3170_bright_periwinkle_blue-thumb.webp",
+      "thumbnail_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/jpg/3170_bright_periwinkle_blue-thumb.jpg",
+      "full_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/webp/3170_bright_periwinkle_blue.webp",
+      "full_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/jpg/3170_bright_periwinkle_blue.jpg",
+      "placeholder": null
+    },
+    {
+      "id": "3171_royalty_purple",
+      "name": "3171_Royalty_Purple",
+      "thumbnail_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/webp/3171_royalty_purple-thumb.webp",
+      "thumbnail_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/jpg/3171_royalty_purple-thumb.jpg",
+      "full_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/webp/3171_royalty_purple.webp",
+      "full_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/jpg/3171_royalty_purple.jpg",
+      "placeholder": null
+    },
+    {
+      "id": "3172_verbena_purple",
+      "name": "3172_Verbena_Purple",
+      "thumbnail_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/webp/3172_verbena_purple-thumb.webp",
+      "thumbnail_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/thumbs/jpg/3172_verbena_purple-thumb.jpg",
+      "full_webp": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/webp/3172_verbena_purple.webp",
+      "full_jpg": "https://cdn.jsdelivr.net/gh/macbarton-eng/quilting-wizard-assets@main/images/full/jpg/3172_verbena_purple.jpg",
+      "placeholder": null
+    }
+  ],
+  "pantographs": []
+}
